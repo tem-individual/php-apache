@@ -1,6 +1,6 @@
 <?php
   $user = 'root';
-  $password = 'my-secret-pw';
+  $password = 'root';
   $dbName = 'chapter6_db';
   $host = 'mysql:8889';
   $dsn = "mysql:host={$host};dbname={$dbName};charset=utf8";
